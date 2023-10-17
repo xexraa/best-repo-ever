@@ -1,3 +1,8 @@
 # best-repo-ever
+<<<<<<< HEAD
+asfmasfnasjf kajsfjasfoasoujna 
+xxxxxxxxxxxx
+xxxxxxxxxxxx
+=======
 asfmasfnasjf kajsfjasfoasoujna mfsnaslfnas
-yyyyyyyyyyy  yyyyyyyyyyy yyyyyyyyy
+>>>>>>> origin/main
